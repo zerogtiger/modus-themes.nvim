@@ -197,7 +197,7 @@ function M.setup()
 		["@variable.builtin"] = { link = "Conditional" }, -- Variable names that are defined by the languages, like `this` or `self`.
 		["@variable.parameter"] = { fg = c.cyan }, -- Parameters of a function.
 		["@variable.parameter.builtin"] = { fg = c.cyan_faint }, -- Built-in parameters of a function (e.g. `...` or `_`).
-		["@variable.member"] = {fg = c.cyan_cooler}, -- Object and struct fields.
+		["@variable.member"] = { link = "Identifier" }, -- Object and struct fields.
 
 		["@constant"] = { link = "Constant" }, -- Constant identifier.
 		["@constant.builtin"] = { link = "Special" }, -- Built-in constant values.
