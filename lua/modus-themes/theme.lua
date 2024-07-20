@@ -487,7 +487,7 @@ function M.setup()
 		NvimTreeNormal = { fg = c.fg_active, bg = c.bg_alt },
 		NvimTreeWinSeparator = { fg = c.border, bg = c.border },
 		NvimTreeNormalNC = { fg = c.fg_active, bg = c.bg_alt },
-		NvimTreeRootFolder = { fg = c.green_cooler, bold = true },
+		NvimTreeRootFolder = { fg = c.cyan, bold = true },
 		NvimTreeGitDirty = { fg = c.fg_changed },
 		NvimTreeGitNew = { fg = c.fg_added },
 		NvimTreeGitDeleted = { fg = c.fg_removed },
