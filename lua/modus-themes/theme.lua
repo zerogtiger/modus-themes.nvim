@@ -487,7 +487,7 @@ function M.setup()
 		NvimTreeNormal = { fg = c.fg_active, bg = c.bg_alt },
 		NvimTreeWinSeparator = { fg = c.border, bg = c.border },
 		NvimTreeNormalNC = { fg = c.fg_active, bg = c.bg_alt },
-		NvimTreeRootFolder = { fg = c.blue, bold = true },
+		NvimTreeRootFolder = { fg = c.green_cooler, bold = true },
 		NvimTreeGitDirty = { fg = c.fg_changed },
 		NvimTreeGitNew = { fg = c.fg_added },
 		NvimTreeGitDeleted = { fg = c.fg_removed },
@@ -496,7 +496,7 @@ function M.setup()
 		NvimTreeIndentMarker = { fg = c.fg_dim },
 		NvimTreeImageFile = { fg = c.fg_active },
 		NvimTreeSymlink = { fg = c.blue },
-		NvimTreeFolderIcon = { bg = c.none, fg = c.cyan },
+		NvimTreeFolderIcon = { bg = c.none, fg = c.blue },
 
 		-- Neotree
 		NeoTreeNormal = { fg = c.fg_active, bg = c.bg_active },
