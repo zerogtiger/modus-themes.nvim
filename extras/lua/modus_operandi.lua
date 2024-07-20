@@ -2172,7 +2172,7 @@ local highlights = {
   },
   NvimTreeRootFolder = {
     bold = true,
-    fg = "#00663f"
+    fg = "#005e8b"
   },
   NvimTreeSpecialFile = {
     fg = "#531ab6",
