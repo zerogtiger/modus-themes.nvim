@@ -2160,11 +2160,11 @@ local highlights = {
     fg = "#989898"
   },
   NvimTreeNormal = {
-    bg = "#282828",
+    bg = "#1e1e1e",
     fg = "#bfc0c4"
   },
   NvimTreeNormalNC = {
-    bg = "#282828",
+    bg = "#1e1e1e",
     fg = "#bfc0c4"
   },
   NvimTreeOpenedFile = {
