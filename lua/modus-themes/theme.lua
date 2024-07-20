@@ -484,7 +484,7 @@ function M.setup()
 		FzfLuaLiveSym = { fg = c.gold },
 
 		-- NvimTree
-		NvimTreeNormal = { fg = c.fg_active, bg = c.bg_active },
+		NvimTreeNormal = { fg = c.fg_inactive, bg = c.bg_inactive },
 		NvimTreeWinSeparator = { fg = c.border, bg = c.border },
 		NvimTreeNormalNC = { fg = c.fg_inactive, bg = c.bg_inactive },
 		NvimTreeRootFolder = { fg = c.blue, bold = true },
@@ -496,7 +496,7 @@ function M.setup()
 		NvimTreeIndentMarker = { fg = c.fg_dim },
 		NvimTreeImageFile = { fg = c.fg_active },
 		NvimTreeSymlink = { fg = c.blue },
-		NvimTreeFolderIcon = { bg = c.none, fg = c.blue },
+		NvimTreeFolderIcon = { bg = c.none, fg = c.red },
 
 		-- Neotree
 		NeoTreeNormal = { fg = c.fg_active, bg = c.bg_active },
