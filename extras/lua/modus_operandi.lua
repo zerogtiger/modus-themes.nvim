@@ -2142,7 +2142,7 @@ local highlights = {
   },
   NvimTreeFolderIcon = {
     bg = "NONE",
-    fg = "#005e8b"
+    fg = "#0031a9"
   },
   NvimTreeGitDeleted = {
     fg = "#8f1313"
@@ -2172,7 +2172,7 @@ local highlights = {
   },
   NvimTreeRootFolder = {
     bold = true,
-    fg = "#0031a9"
+    fg = "#00663f"
   },
   NvimTreeSpecialFile = {
     fg = "#531ab6",
