@@ -484,9 +484,9 @@ function M.setup()
 		FzfLuaLiveSym = { fg = c.gold },
 
 		-- NvimTree
-		NvimTreeNormal = { fg = c.fg_inactive, bg = c.bg_inactive },
+		NvimTreeNormal = { fg = c.fg_inactive, bg = c.bg_dim },
 		NvimTreeWinSeparator = { fg = c.border, bg = c.border },
-		NvimTreeNormalNC = { fg = c.fg_inactive, bg = c.bg_inactive },
+		NvimTreeNormalNC = { fg = c.fg_inactive, bg = c.bg_dim },
 		NvimTreeRootFolder = { fg = c.blue, bold = true },
 		NvimTreeGitDirty = { fg = c.fg_changed },
 		NvimTreeGitNew = { fg = c.fg_added },
