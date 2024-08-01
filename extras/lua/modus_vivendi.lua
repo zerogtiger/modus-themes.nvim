@@ -1394,7 +1394,7 @@ local highlights = {
     nocombine = true
   },
   IblScope = {
-    fg = "#caa5df",
+    fg = "#caa6df",
     nocombine = true
   },
   Identifier = {
@@ -1422,7 +1422,7 @@ local highlights = {
     nocombine = true
   },
   IndentBlanklineContextChar = {
-    fg = "#caa5df",
+    fg = "#caa6df",
     nocombine = true
   },
   Keyword = {
