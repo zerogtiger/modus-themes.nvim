@@ -1390,7 +1390,7 @@ local highlights = {
     fg = "#595959"
   },
   IblIndent = {
-    fg = "#9f9f9f",
+    fg = "#e0e0e0",
     nocombine = true
   },
   IblScope = {
@@ -1418,7 +1418,7 @@ local highlights = {
     fg = "#a0132f"
   },
   IndentBlanklineChar = {
-    fg = "#9f9f9f",
+    fg = "#e0e0e0",
     nocombine = true
   },
   IndentBlanklineContextChar = {
@@ -2190,7 +2190,7 @@ local highlights = {
   },
   Pmenu = {
     bg = "#e0e0e0",
-    fg = "#0a0a0a"
+    fg = "#404148"
   },
   PmenuSbar = {
     bg = "#595959",
