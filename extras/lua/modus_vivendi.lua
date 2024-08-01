@@ -46,7 +46,7 @@ local colors = {
   bg_removed_refine = "#781a1f",
   bg_sidebar = "#1e1e1e",
   bg_status_line_active = "#404040",
-  bg_status_line_inactive = "#2d2d2d",
+  bg_status_line_inactive = "#404040",
   bg_tab_alternate = "#545490",
   bg_tab_bar = "#313131",
   bg_tab_current = "#000000",
@@ -1659,7 +1659,7 @@ local highlights = {
     fg = "#f0f0f0"
   },
   MiniStatuslineInactive = {
-    bg = "#2d2d2d",
+    bg = "#404040",
     bold = true,
     fg = "#969696"
   },

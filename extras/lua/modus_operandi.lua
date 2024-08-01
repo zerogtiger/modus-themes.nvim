@@ -1390,11 +1390,11 @@ local highlights = {
     fg = "#595959"
   },
   IblIndent = {
-    fg = "#595959",
+    fg = "#9f9f9f",
     nocombine = true
   },
   IblScope = {
-    fg = "#531ab6",
+    fg = "#595959",
     nocombine = true
   },
   Identifier = {
@@ -1418,11 +1418,11 @@ local highlights = {
     fg = "#a0132f"
   },
   IndentBlanklineChar = {
-    fg = "#595959",
+    fg = "#9f9f9f",
     nocombine = true
   },
   IndentBlanklineContextChar = {
-    fg = "#531ab6",
+    fg = "#595959",
     nocombine = true
   },
   Keyword = {
@@ -2197,7 +2197,7 @@ local highlights = {
     fg = "#ffffff"
   },
   PmenuSel = {
-    bg = "#f2f2f2",
+    bg = "#ffffff",
     fg = "#000000"
   },
   PmenuThumb = {
