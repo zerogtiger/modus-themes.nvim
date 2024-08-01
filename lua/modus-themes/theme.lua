@@ -824,9 +824,9 @@ function M.setup()
 		NoiceCompletionItemKindValue = { link = "@string" },
 
 		-- indent-blankline.nvim
-		IndentBlanklineChar = { fg = c.bg_active, nocombine = true },
+		IndentBlanklineChar = { fg = c.bg_status_line_active, nocombine = true },
 		IndentBlanklineContextChar = { fg = c.fg_dim, nocombine = true },
-		IblIndent = { fg = c.bg_active, nocombine = true },
+		IblIndent = { fg = c.bg_status_line_active, nocombine = true },
 		IblScope = { fg = c.fg_dim, nocombine = true },
 
 		-- Scrollbar
