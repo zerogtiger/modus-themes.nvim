@@ -2197,7 +2197,7 @@ local highlights = {
     fg = "#000000"
   },
   PmenuSel = {
-    bg = "#2f822f",
+    bg = "#7a6100",
     fg = "#ffffff"
   },
   PmenuThumb = {
