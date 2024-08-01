@@ -1390,7 +1390,7 @@ local highlights = {
     fg = "#595959"
   },
   IblIndent = {
-    fg = "#e0e0e0",
+    fg = "#c8c8c8",
     nocombine = true
   },
   IblScope = {
@@ -1418,7 +1418,7 @@ local highlights = {
     fg = "#a0132f"
   },
   IndentBlanklineChar = {
-    fg = "#e0e0e0",
+    fg = "#c8c8c8",
     nocombine = true
   },
   IndentBlanklineContextChar = {
