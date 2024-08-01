@@ -62,7 +62,7 @@ function M.setup()
 		CurSearch = { link = "IncSearch" },
 		Substitute = { fg = c.fg_main, bg = c.bg_red_intense }, -- |:substitute| replacement text highlighting.
 		QuickFixLine = { fg = c.fg_main, bg = c.visual }, -- Current |quickfix| item in the quickfix window. Combined with |hl-CursorLine| when the cursor is there.
-		Pmenu = { fg = c.fg_active, bg = c.bg_active }, -- Popup menu: normal item.
+		Pmenu = { fg = c.fg_inactive, bg = c.bg_active }, -- Popup menu: normal item.
 		PmenuSel = { fg = c.fg_main, bg = c.bg_main }, -- Popup menu: selected item.
 		PmenuSbar = { fg = c.bg_main, bg = c.fg_dim }, -- Popup menu: scrollbar.
 		PmenuThumb = { link = "Cursor" }, -- Popup menu: Thumb of the scrollbar.
@@ -824,9 +824,9 @@ function M.setup()
 		NoiceCompletionItemKindValue = { link = "@string" },
 
 		-- indent-blankline.nvim
-		IndentBlanklineChar = { fg = c.border, nocombine = true },
+		IndentBlanklineChar = { fg = c.bg_active, nocombine = true },
 		IndentBlanklineContextChar = { fg = c.fg_dim, nocombine = true },
-		IblIndent = { fg = c.border, nocombine = true },
+		IblIndent = { fg = c.bg_active, nocombine = true },
 		IblScope = { fg = c.fg_dim, nocombine = true },
 
 		-- Scrollbar
