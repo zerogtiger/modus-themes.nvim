@@ -316,7 +316,7 @@ M.modus_vivendi = {
 	-- Status line specific colors
 	bg_status_line_active = "#404040",
 	fg_status_line_active = "#f0f0f0",
-	bg_status_line_inactive = "#2d2d2d",
+	bg_status_line_inactive = "#404040",
 	fg_status_line_inactive = "#969696",
 	-- tab bar colors for tab pages
 	bg_tab_bar = "#313131",
