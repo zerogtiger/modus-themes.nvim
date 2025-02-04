@@ -347,7 +347,7 @@ M.modus_vivendi = {
 
 	-- Tinted Variant
 	tinted_bg_main = "#0d0e1c",
-	tinted_bg_dim = "#ff0000",
+	tinted_bg_dim = "#1d2235",
 	tinted_border = "#61647a",
 	tinted_border_highlight = "#b290b0",
 	tinted_bg_active = "#4a4f69",
