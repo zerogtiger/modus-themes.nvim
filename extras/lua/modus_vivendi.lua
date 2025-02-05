@@ -1100,7 +1100,7 @@ local highlights = {
     fg = "NONE"
   },
   CursorLineNr = {
-    bg = "#ff0000",
+    bg = "#303030",
     bold = true,
     fg = "#f4f4f4"
   },
